@@ -1,2 +1,2 @@
-# RainDropSIm
+# RainDrop
 Rain effect using Pygame.
